@@ -5,6 +5,12 @@ Created with IncludeHelp XML Sitemap Generator
 https://www.includehelp.com/tools/xml-sitemap-generator.aspx
  -->
 <url>
+	<loc>https://beritaharianrinjani89.github.io/blog/</loc>
+	<lastmod>2026-03-13</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>1.0</priority>
+</url>
+<url>
 	<loc>https://beritaharianrinjani89.github.io/blog/cerita-andi-mahasiswa-yang-main-mahjong-ways-di-antara-kuliah-dan-nongkrong.html</loc>
 	<lastmod>2026-03-13</lastmod>
 	<changefreq>weekly</changefreq>
